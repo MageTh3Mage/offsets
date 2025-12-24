@@ -1,7 +1,7 @@
 {
-  "UWorld": "0x172C8CB8",
-  "GameState": "0x1D0",
-  "GameInstance": "0x248",
+  "UWorld": "0x175C9368",
+  "GameState": "0x1D8",
+  "GameInstance": "0x250",
   "LocalPlayers": "0x38",
   "PlayerController": "0x30",
   "LocalPawn": "0x358",
@@ -20,31 +20,31 @@
   "ComponentToWorld": "0x1E0",
   "BoneArray": "0x5F0",
   "BoneArrayCache": "0x600",
-  "Velocity": "0x188",
+  "Velocity": "0xD8",
 
   "RelativeLocation": "0x140",
-  "RelativeRotation": "0x188",
+  "RelativeRotation": "0x158",
 
   "CameraLocation": "0x178",
   "CameraRotation": "0x188",
   "FOV": "0x3B4",
   "WorldTimeSeconds": "0x198",
 
-  "LastRenderTimeOnScreen": "0x32C",
+  "LastRenderTimeOnScreen": "0x328",
 
   "CurrentWeapon": "0x990",
-  "WeaponData": "0x948",
-  "ProjectileSpeed": "0x26E4",
-  "ProjectileGravity": "0x26E8",
-
+  "WeaponData": "0x698",
   "Rarity": "0xAA",
   "ItemName": "0x40",
   "FData": "0x20",
   "FLength": "0x28",
+  "ProjectileSpeed": "0x24F4",
+  "ProjectileGravity": "0x24F8",
 
-  "TargetedFortPawn": "0x1830",
+  "TargetedFortPawn": "0x1840",
 
   "EncryptedPlayerNameStruct": "0xA00",
+
   "Platform": "0x440",
 
   "Spectators": "0xA98",
@@ -58,8 +58,8 @@
   "bPickedUp": "0x2CC",
   "HighestRarity": "0xD50",
   "SpawnSourceOverride": "0xBE8",
-  "Levels": "0x40",
-  "AActors": "0x48",
+  "Levels": "0x1F0",
+  "AActors": "0x1B0",
   "PrimaryPickupItemEntry": "0x3A8",
   "ItemDefinition": "0x10",
   "SearchText": "0xDA8",
